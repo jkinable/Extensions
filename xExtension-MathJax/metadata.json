@@ -1,0 +1,8 @@
+{
+	"name": "MathJax",
+	"author": "Joris Kinable",
+	"description": "Enable MathJax support.",
+	"version": 0.1,
+	"entrypoint": "MathJax",
+	"type": "system"
+}
