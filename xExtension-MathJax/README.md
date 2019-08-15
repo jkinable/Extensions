@@ -1,4 +1,4 @@
-# CustomJS extension
+# MathJax extension
 
 A FreshRSS extension which adds MathJax support.
 
